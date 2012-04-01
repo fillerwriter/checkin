@@ -61,3 +61,7 @@
     git=http://github.com/symfony/AsseticBundle.git
     target=/bundles/Symfony/Bundle/AsseticBundle
     version=v1.0.1
+[geoPHP]
+    git=git://github.com/fillerwriter/geoPHP.git
+[cartodbclient-php]
+    git=git://github.com/fillerwriter/cartodbclient-php.git
